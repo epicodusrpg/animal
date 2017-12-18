@@ -1,0 +1,40 @@
+.selectorimg {
+  height: 200px;
+}
+
+#snakes {
+  margin-left: 15%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.infoimg {
+  height: 150px;
+  margin: 25px;
+}
+
+#turtleinfo {
+  display: none;
+}
+
+#snakeinfo {
+  display: none;
+}
+
+#inariinfo {
+  display: none;
+}
+
+ul {
+  list-style: none;
+}
+
+#snakeinfo img {
+  margin-left: 38%;
+}
+
+#snakeinfo h2 {
+  text-align: center;
+}
